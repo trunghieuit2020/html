@@ -5,9 +5,12 @@ $(document).ready(function(){
 	$(".logo280").html("<img class='logo2802' src='https://1.bp.blogspot.com/-AkuoltmGUH0/Xznxr2OVHOI/AAAAAAAABzA/bkAemenS20wzvC9z6YhwHbz1UlLoUJERgCNcBGAsYHQ/d/logo-bang-hieu-vinh-long-280-2020.png'>");
 	$(".logo1120").html("<img class='logo11202' src='https://1.bp.blogspot.com/-fFd9s6UkXpc/XznwLcmme-I/AAAAAAAABy0/ncv1qST3whcI93pBREoiiXtJ953vGqzEQCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-1120-2020.png'>");
 	    if(window.matchMedia("(max-width: 767px)").matches){
-        // The viewport is less than 768 pixels wide 
+        // MAN HINH NHO
 		$(".logotop").html("<img class='logo5002' src='https://1.bp.blogspot.com/-mzR5AhFLLIA/XznyKDvVoKI/AAAAAAAABzI/aDbat_KmqSQVhEsLY66e-Qgb1d2anKX9wCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-500-2020.png'>");
-    } else{ 
+		 // calss phonenumber them so dien thoai va vi tri
+		$(".phonenumber").html("<center><a href='tel:01234567890'><img src='https://www.iconhot.com/icon/png/bunch-cool-bluish-icons/48/call-1.png' /></a> </center>");
+		$(".phonenumber").attr("style","position: fixed;bottom: 10px;width: 100%;");
+  } else{ 
 		  $(".logotop").html("<img class='logo11202' src='https://1.bp.blogspot.com/-fFd9s6UkXpc/XznwLcmme-I/AAAAAAAABy0/ncv1qST3whcI93pBREoiiXtJ953vGqzEQCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-1120-2020.png'>");  
     }
 });
