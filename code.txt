@@ -4,7 +4,8 @@ $(document).ready(function(){
 	$(".logo500").html("<img class='logo5002' src='https://1.bp.blogspot.com/-mzR5AhFLLIA/XznyKDvVoKI/AAAAAAAABzI/aDbat_KmqSQVhEsLY66e-Qgb1d2anKX9wCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-500-2020.png'>");
 	$(".logo280").html("<img class='logo2802' src='https://1.bp.blogspot.com/-AkuoltmGUH0/Xznxr2OVHOI/AAAAAAAABzA/bkAemenS20wzvC9z6YhwHbz1UlLoUJERgCNcBGAsYHQ/d/logo-bang-hieu-vinh-long-280-2020.png'>");
 	$(".logo1120").html("<img class='logo11202' src='https://1.bp.blogspot.com/-fFd9s6UkXpc/XznwLcmme-I/AAAAAAAABy0/ncv1qST3whcI93pBREoiiXtJ953vGqzEQCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-1120-2020.png'>");
-	    if(window.matchMedia("(max-width: 767px)").matches){
+	$(".formlienhe").html("<iframe src='https://docs.google.com/forms/d/e/1FAIpQLSfaFy0Zjld-2t28DwWbtNawnqGTu5eDwnt3wkJpT6DbL7l83w/viewform' style='min-height: 640px;' title='Khảo sát - Tư vấn'></iframe>");
+	if(window.matchMedia("(max-width: 767px)").matches){
         // MAN HINH NHO
 		$(".logotop").html("<img class='logo5002' src='https://1.bp.blogspot.com/-mzR5AhFLLIA/XznyKDvVoKI/AAAAAAAABzI/aDbat_KmqSQVhEsLY66e-Qgb1d2anKX9wCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-500-2020.png'>");
 		 // calss phonenumber them so dien thoai va vi tri
