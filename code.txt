@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	$(".lienhe").html("<img class='lienhe2' src='https://1.bp.blogspot.com/-tuz5BL_ZckQ/Xznu7zyCtlI/AAAAAAAAByo/net9DkEdtgwGpad0NOYagPgP_4Jptxc1QCNcBGAsYHQ/s0/bang-hieu-vinh-long-lien-he-2020.png'>");
 	$(".lienhephone").html("<img class='lienhephone2' src='https://1.bp.blogspot.com/-N3AYmUG9i54/Xz4-KNZJrmI/AAAAAAAABM8/YdtKsitwPpAR3RLKFB8E0krABTAcNbGBACNcBGAsYHQ/s0/lienhephone.png'>");
-	$(".logo500").html("<img class='logo5002' src='https://1.bp.blogspot.com/-mzR5AhFLLIA/XznyKDvVoKI/AAAAAAAABzI/aDbat_KmqSQVhEsLY66e-Qgb1d2anKX9wCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-500-2020.png'>");
+	$(".logo500").html("<img class='logo5002' src='https://1.bp.blogspot.com/-OruhdiPRTqA/X3f4MBuKd-I/AAAAAAAABOo/D9NvFTF9oKUmIGtBqVw3qyn4xy7qYWzJACNcBGAsYHQ/s16000/bang-hieu-vinh-long-400-190-2020.png'>");
 	$(".logo280").html("<img class='logo2802' src='https://1.bp.blogspot.com/-AkuoltmGUH0/Xznxr2OVHOI/AAAAAAAABzA/bkAemenS20wzvC9z6YhwHbz1UlLoUJERgCNcBGAsYHQ/d/logo-bang-hieu-vinh-long-280-2020.png'>");
-	$(".logo1120").html("<img class='logo11202' src='https://1.bp.blogspot.com/-fFd9s6UkXpc/XznwLcmme-I/AAAAAAAABy0/ncv1qST3whcI93pBREoiiXtJ953vGqzEQCNcBGAsYHQ/d/logo-bang-hieu-thanh-dong-1120-2020.png'>");
+	$(".logo1120").html("<img class='logo11202' src='https://1.bp.blogspot.com/-mM4ZtxUbCSc/X3f4MD58ujI/AAAAAAAABOs/gNZv7yOs5Lwo-EFYFP2C5Uu_wFI4SSIVgCNcBGAsYHQ/s16000/bang-hieu-vinh-long-1120-190-2020.png'>");
 	$(".formlienhe").html("<iframe src='https://docs.google.com/forms/d/e/1FAIpQLSfaFy0Zjld-2t28DwWbtNawnqGTu5eDwnt3wkJpT6DbL7l83w/viewform' style='min-height: 640px;width: 100%;' title='Khảo sát - Tư vấn'></iframe>");
 	if(window.matchMedia("(max-width: 767px)").matches){
         // MAN HINH NHO
