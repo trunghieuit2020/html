@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$(".lienhe").html("<img class='lienhe2' src='https://1.bp.blogspot.com/-tuz5BL_ZckQ/Xznu7zyCtlI/AAAAAAAAByo/net9DkEdtgwGpad0NOYagPgP_4Jptxc1QCNcBGAsYHQ/s0/bang-hieu-vinh-long-lien-he-2020.png'>");
-	$(".lienhephone").html("<img class='lienhephone2' src='https://1.bp.blogspot.com/-N3AYmUG9i54/Xz4-KNZJrmI/AAAAAAAABM8/YdtKsitwPpAR3RLKFB8E0krABTAcNbGBACNcBGAsYHQ/s0/lienhephone.png'>");
+	$(".lienhephone").html("<img class='lienhephone2' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFRhnZVKWrOmXLComqqhRgASRt0w8J79MZWibLTrzvSqCefgSN9vIVccwhV706lpy8oIq5zQDN6nyzIGTDVlKDz3mMb1CCEJXi_rQ_Kulgx1PmDy7LtEIVQiu6cL_edEhQ1PxxvvETVAzu46NG1g-xM1CxcAeCqy87DRUGH-6RRhCZtARiyie2gquxcA/s1600/lienhephone.png'>");
 	$(".logo500").html("<img class='logo5002' src='https://1.bp.blogspot.com/-OruhdiPRTqA/X3f4MBuKd-I/AAAAAAAABOo/D9NvFTF9oKUmIGtBqVw3qyn4xy7qYWzJACNcBGAsYHQ/s16000/bang-hieu-vinh-long-400-190-2020.png'>");
 	$(".logo280").html("<img class='logo2802' src='https://1.bp.blogspot.com/-AkuoltmGUH0/Xznxr2OVHOI/AAAAAAAABzA/bkAemenS20wzvC9z6YhwHbz1UlLoUJERgCNcBGAsYHQ/d/logo-bang-hieu-vinh-long-280-2020.png'>");
 	$(".logo1120").html("<img class='logo11202' src='https://1.bp.blogspot.com/-mM4ZtxUbCSc/X3f4MD58ujI/AAAAAAAABOs/gNZv7yOs5Lwo-EFYFP2C5Uu_wFI4SSIVgCNcBGAsYHQ/s16000/bang-hieu-vinh-long-1120-190-2020.png'>");
