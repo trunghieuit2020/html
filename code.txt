@@ -12,6 +12,6 @@ $(document).ready(function(){
 		$(".phonenumber").html("<center><a href='tel:0376701320'><img src='https://www.iconhot.com/icon/png/bunch-cool-bluish-icons/48/call-1.png' /></a> </center>");
 		$(".phonenumber").attr("style","position: fixed;bottom: 6px;width: 100%;z-index:99999;background-color:#cfecfb;");
   } else{ 
-		  $(".logotop").html("<img class='logo11202' src='https://1.bp.blogspot.com/-mM4ZtxUbCSc/X3f4MD58ujI/AAAAAAAABOs/gNZv7yOs5Lwo-EFYFP2C5Uu_wFI4SSIVgCNcBGAsYHQ/s16000/bang-hieu-vinh-long-1120-190-2020.png'>");  
+		  $(".logotop").html("<img class='logo11202' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinF8wBZ9h_CWj-_Chd6SVr7YHtN9z9PBKrvzyX0g3orC4YYCvvbzxX-k2ifN48_301fA2wA1XgV0u-DSpcP2dWxUK3zYU1t2Qze7zxUmmcbgF4orfhaLrkNNdXum2KWKsVPJq4sQhi4K9W_pcVleohP3PgBs_BVrpcC9WORBtjsH_PY5DBV2YrRLZz9A/s16000/bang-hieu-vinh-long-1120-190-2020.png'>");  
     }
 });
